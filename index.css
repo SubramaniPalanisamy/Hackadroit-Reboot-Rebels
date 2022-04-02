@@ -1,0 +1,65 @@
+body{
+    width: 100%;
+}
+.home{
+    background-image: url("/tour-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45rem;
+
+
+}
+.container{
+    background-color: #c6daf84d;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+
+}
+.welcome {
+    padding: 50px 0 10px 30px;
+    font-family: 'Grandstander', cursive;
+    font-weight: bolder;
+    font-size: 3.8rem;
+}
+.nav-item:hover{
+    background-color: #c6daf84d;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+.cards
+{
+
+    margin-top:4rem ;
+    margin-left:13rem ;
+
+}
+.features{
+    background-color: rgba(253, 218, 179, 0.755);
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 3.5rem;
+    margin: -80px 0 0 580px;
+    font-family:'Grandstander' ;
+    font-size: 2rem;
+}
+.feature-box
+{
+    
+    background-color:rgba(253, 218, 179, 0.455) ;
+    border-radius: 5px;
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    
+}
+
+.fea-images
+{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    margin-left: 25px;
+    border-radius: 50%;
+}
